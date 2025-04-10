@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 10px;
+    place-items: center;
+    justify-content: center;
+    background: var(--bg-gradient);
+    z-index: 99;
+}
+
+.headerbtn {
+    border-radius: 5px;
+    margin-left: 5px;
+    text-align: center;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.input {
+    background-color: rgba(121, 121, 121, 0.267);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    border: none;
+    width: 80vw;
+}

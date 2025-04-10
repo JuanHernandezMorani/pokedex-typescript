@@ -1,0 +1,2735 @@
+.listItemText1 {
+    --type-color1: #A8A8C080;
+    --type-color2: #A8A8C0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText2 {
+    --type-color1: #6890F080;
+    --type-color2: #6890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText3 {
+    --type-color1: #A8B82080;
+    --type-color2: #A8B820ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText4 {
+    --type-color1: #7038F880;
+    --type-color2: #7038F8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText5 {
+    --type-color1: #F8D03080;
+    --type-color2: #F8D030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText6 {
+    --type-color1: #70589880;
+    --type-color2: #705898ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText7 {
+    --type-color1: #F0803080;
+    --type-color2: #F08030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText8 {
+    --type-color1: #EE99AC80;
+    --type-color2: #EE99ACff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText9 {
+    --type-color1: #98D8D880;
+    --type-color2: #98D8D8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText10 {
+    --type-color1: #C0302880;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText11 {
+    --type-color1: #A8A87880;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText12 {
+    --type-color1: #78C85080;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText13 {
+    --type-color1: #F8588880;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText14 {
+    --type-color1: #B8A03880;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText15 {
+    --type-color1: #70584880;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText16 {
+    --type-color1: #E0C06880;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText17 {
+    --type-color1: #A040A080;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText18 {
+    --type-color1: #A890F080;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText19 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #6890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText20 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #A8B820ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText21 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #7038F8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText22 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #F8D030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText23 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #705898ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText24 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #F08030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText25 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #EE99ACff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText26 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #98D8D8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText27 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText28 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText29 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText30 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText31 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText32 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText33 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText34 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText35 {
+    --type-color1: #A8A8C0ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText36 {
+    --type-color1: #6890F0ff;
+    --type-color2: #A8B820ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText37 {
+    --type-color1: #6890F0ff;
+    --type-color2: #7038F8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText38 {
+    --type-color1: #6890F0ff;
+    --type-color2: #F8D030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText39 {
+    --type-color1: #6890F0ff;
+    --type-color2: #705898ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText40 {
+    --type-color1: #6890F0ff;
+    --type-color2: #F08030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText41 {
+    --type-color1: #6890F0ff;
+    --type-color2: #EE99ACff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText42 {
+    --type-color1: #6890F0ff;
+    --type-color2: #98D8D8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText43 {
+    --type-color1: #6890F0ff;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText44 {
+    --type-color1: #6890F0ff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText45 {
+    --type-color1: #6890F0ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText46 {
+    --type-color1: #6890F0ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText47 {
+    --type-color1: #6890F0ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText48 {
+    --type-color1: #6890F0ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText49 {
+    --type-color1: #6890F0ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText50 {
+    --type-color1: #6890F0ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText51 {
+    --type-color1: #6890F0ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText52 {
+    --type-color1: #A8B820ff;
+    --type-color2: #7038F8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText53 {
+    --type-color1: #A8B820ff;
+    --type-color2: #F8D030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText54 {
+    --type-color1: #A8B820ff;
+    --type-color2: #705898ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText55 {
+    --type-color1: #A8B820ff;
+    --type-color2: #F08030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText56 {
+    --type-color1: #A8B820ff;
+    --type-color2: #EE99ACff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText57 {
+    --type-color1: #A8B820ff;
+    --type-color2: #98D8D8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText58 {
+    --type-color1: #A8B820ff;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText59 {
+    --type-color1: #A8B820ff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText60 {
+    --type-color1: #A8B820ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText61 {
+    --type-color1: #A8B820ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText62 {
+    --type-color1: #A8B820ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText63 {
+    --type-color1: #A8B820ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText64 {
+    --type-color1: #A8B820ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText65 {
+    --type-color1: #A8B820ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText66 {
+    --type-color1: #A8B820ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText67 {
+    --type-color1: #7038F8ff;
+    --type-color2: #F8D030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText68 {
+    --type-color1: #7038F8ff;
+    --type-color2: #705898ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText69 {
+    --type-color1: #7038F8ff;
+    --type-color2: #F08030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText70 {
+    --type-color1: #7038F8ff;
+    --type-color2: #EE99ACff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText71 {
+    --type-color1: #7038F8ff;
+    --type-color2: #98D8D8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText72 {
+    --type-color1: #7038F8ff;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText73 {
+    --type-color1: #7038F8ff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText74 {
+    --type-color1: #7038F8ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText75 {
+    --type-color1: #7038F8ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText76 {
+    --type-color1: #7038F8ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText77 {
+    --type-color1: #7038F8ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText78 {
+    --type-color1: #7038F8ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText79 {
+    --type-color1: #7038F8ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText80 {
+    --type-color1: #7038F8ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText81 {
+    --type-color1: #F8D030ff;
+    --type-color2: #705898ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText82 {
+    --type-color1: #F8D030ff;
+    --type-color2: #F08030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText83 {
+    --type-color1: #F8D030ff;
+    --type-color2: #EE99ACff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText84 {
+    --type-color1: #F8D030ff;
+    --type-color2: #98D8D8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText85 {
+    --type-color1: #F8D030ff;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText86 {
+    --type-color1: #F8D030ff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText87 {
+    --type-color1: #F8D030ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText88 {
+    --type-color1: #F8D030ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText89 {
+    --type-color1: #F8D030ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText90 {
+    --type-color1: #F8D030ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText91 {
+    --type-color1: #F8D030ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText92 {
+    --type-color1: #F8D030ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText93 {
+    --type-color1: #F8D030ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText94 {
+    --type-color1: #705898ff;
+    --type-color2: #F08030ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText95 {
+    --type-color1: #705898ff;
+    --type-color2: #EE99ACff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText96 {
+    --type-color1: #705898ff;
+    --type-color2: #98D8D8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText97 {
+    --type-color1: #705898ff;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText98 {
+    --type-color1: #705898ff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText99 {
+    --type-color1: #705898ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText100 {
+    --type-color1: #705898ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText101 {
+    --type-color1: #705898ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText102 {
+    --type-color1: #705898ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText103 {
+    --type-color1: #705898ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText104 {
+    --type-color1: #705898ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText105 {
+    --type-color1: #705898ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText106 {
+    --type-color1: #F08030ff;
+    --type-color2: #EE99ACff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText107 {
+    --type-color1: #F08030ff;
+    --type-color2: #98D8D8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText108 {
+    --type-color1: #F08030ff;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText109 {
+    --type-color1: #F08030ff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText110 {
+    --type-color1: #F08030ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText111 {
+    --type-color1: #F08030ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText112 {
+    --type-color1: #F08030ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText113 {
+    --type-color1: #F08030ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText114 {
+    --type-color1: #F08030ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText115 {
+    --type-color1: #F08030ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText116 {
+    --type-color1: #F08030ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText117 {
+    --type-color1: #EE99ACff;
+    --type-color2: #98D8D8ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText118 {
+    --type-color1: #EE99ACff;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText119 {
+    --type-color1: #EE99ACff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText120 {
+    --type-color1: #EE99ACff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText121 {
+    --type-color1: #EE99ACff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText122 {
+    --type-color1: #EE99ACff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText123 {
+    --type-color1: #EE99ACff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText124 {
+    --type-color1: #EE99ACff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText125 {
+    --type-color1: #EE99ACff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText126 {
+    --type-color1: #EE99ACff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText127 {
+    --type-color1: #98D8D8ff;
+    --type-color2: #C03028ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText128 {
+    --type-color1: #98D8D8ff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText129 {
+    --type-color1: #98D8D8ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText130 {
+    --type-color1: #98D8D8ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText131 {
+    --type-color1: #98D8D8ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText132 {
+    --type-color1: #98D8D8ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText133 {
+    --type-color1: #98D8D8ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText134 {
+    --type-color1: #98D8D8ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText135 {
+    --type-color1: #98D8D8ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText136 {
+    --type-color1: #C03028ff;
+    --type-color2: #A8A878ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText137 {
+    --type-color1: #C03028ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText138 {
+    --type-color1: #C03028ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText139 {
+    --type-color1: #C03028ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText140 {
+    --type-color1: #C03028ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText141 {
+    --type-color1: #C03028ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText142 {
+    --type-color1: #C03028ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText143 {
+    --type-color1: #C03028ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText144 {
+    --type-color1: #A8A878ff;
+    --type-color2: #78C850ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText145 {
+    --type-color1: #A8A878ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText146 {
+    --type-color1: #A8A878ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText147 {
+    --type-color1: #A8A878ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText148 {
+    --type-color1: #A8A878ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText149 {
+    --type-color1: #A8A878ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText150 {
+    --type-color1: #A8A878ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText151 {
+    --type-color1: #78C850ff;
+    --type-color2: #F85888ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText152 {
+    --type-color1: #78C850ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText153 {
+    --type-color1: #78C850ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText154 {
+    --type-color1: #78C850ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText155 {
+    --type-color1: #78C850ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText156 {
+    --type-color1: #78C850ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText157 {
+    --type-color1: #F85888ff;
+    --type-color2: #B8A038ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText158 {
+    --type-color1: #F85888ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText159 {
+    --type-color1: #F85888ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText160 {
+    --type-color1: #F85888ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText161 {
+    --type-color1: #F85888ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText162 {
+    --type-color1: #B8A038ff;
+    --type-color2: #705848ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText163 {
+    --type-color1: #B8A038ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText164 {
+    --type-color1: #B8A038ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText165 {
+    --type-color1: #B8A038ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText166 {
+    --type-color1: #705848ff;
+    --type-color2: #E0C068ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText167 {
+    --type-color1: #705848ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText168 {
+    --type-color1: #705848ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText169 {
+    --type-color1: #E0C068ff;
+    --type-color2: #A040A0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText170 {
+    --type-color1: #E0C068ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }
+  
+  .listItemText171 {
+    --type-color1: #A040A0ff;
+    --type-color2: #A890F0ff;
+    background: -webkit-linear-gradient(var(--type-color1) 25%, var(--type-color2) 100%);
+    text-decoration: none;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 11px;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+  }

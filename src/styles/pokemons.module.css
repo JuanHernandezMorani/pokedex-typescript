@@ -1,0 +1,120 @@
+.listItem {
+    display: flex;
+    border-bottom: 3px solid #e4e4e4;
+    padding: 10px;
+    text-decoration: none;
+    align-items: center;
+    cursor: default;
+}
+
+.listItem > :first-child {
+    margin-right: 15px;
+}
+
+.listItem > :last-child {
+    margin: 0;
+}
+
+.listItemIcon {
+    width: 3rem;
+    height: 3rem;
+    object-fit: contain;
+}
+
+.listTypeIcon {
+    width: 5rem;
+    height: 5rem;
+    object-fit: contain;
+}
+
+.listItemText {
+    flex-grow: 2;
+}
+
+.listItemText > :last-child {
+    color: rgb(65, 61, 61);
+    font-weight: bolder;
+    font-size: 0.8rem;
+    display: block;
+}
+
+.cardFrame {
+    position: relative;
+    width: 120px;
+    height: 120px;
+    padding: 6px;
+    border-radius: 12px;
+    border: 2px solid transparent;
+    background: linear-gradient(135deg, var(--type-color1), var(--type-color2));
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.3), 0 0 30px rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+    z-index: 0; /* base */
+  }
+  
+  .cardFrame::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(
+      circle at 50% 50%,
+      rgba(255, 255, 255, 0.3) 0%,
+      transparent 60%
+    );
+    opacity: 0.5;
+    filter: blur(20px);
+    pointer-events: none;
+    z-index: 1;
+    animation: glowPulse 4s ease-in-out infinite;
+  }
+  
+  .holoEffect {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300%;
+    height: 300%;
+    background: repeating-linear-gradient(
+      45deg,
+      rgba(255, 255, 255, 0.15),
+      rgba(255, 255, 255, 0.15) 10px,
+      transparent 10px,
+      transparent 20px
+    );
+    animation: holoAnim 6s linear infinite;
+    pointer-events: none;
+    z-index: 2;
+    opacity: 0.4;
+    mix-blend-mode: screen;
+  }
+  
+  .cardFrame img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    position: relative;
+    z-index: 3;
+  }
+  
+
+  @keyframes glowPulse {
+    0%, 100% {
+      opacity: 0.3;
+      transform: scale(1);
+    }
+    50% {
+      opacity: 0.6;
+      transform: scale(1.05);
+    }
+  }
+  
+  @keyframes holoAnim {
+    0% {
+      transform: translate(0%, 0%);
+    }
+    100% {
+      transform: translate(-100%, -100%);
+    }
+  }

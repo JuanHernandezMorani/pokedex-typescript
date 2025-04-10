@@ -1,0 +1,32 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-around;
+    background: var(--bg-gradient);
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    z-index: 99;
+}
+
+.footerLink {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #292929;
+    margin: 15px 0px;
+    font: 12px;
+    height: 40px;
+}
+
+.footerIcon {
+    width: 35px;
+    margin: 5px 0px;
+}
+
+.footerLink:hover {
+    font-weight: bold;
+}
